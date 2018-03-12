@@ -7,6 +7,12 @@
 
 # Experience 
 
+Founder / Principal / Software Developer, Bigfont, Aug 2012 to Present
+
+* Design and build websites, Internet applications, Windows software, and connected devices. 
+* Provide technical support on Windows and Apple computers. 
+* Negotiate new contracts.  
+
 Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 
 * Maintained the internal VB.NET Web Forms application and its underlying C#.NET services. 
@@ -28,12 +34,6 @@ Software Developer, Aequilibrium, Oct 2015 to Sep 2017
 * Provided team augmentation for a six-month data import automation project involving skills in C#.NET, Git, Design Patterns, Microsoft Excel, and MongoDB; the team of approximately seven developers met the deadline and the code went into production.
 * Designed and implemented the end-user authentication and also extended the existing data visualization features of an existing ecological data management system; provided professional skills in security, C#.NET, JavaScript, CSS, and HTML.
 * Researched, designed, and implemented a custom Salesforce module to allow US government sites to accept payments from citizens; implemented the payment flow in JavaScript and APEX to the exact security specifications of the payment provider (First Data).
-
-Founder / Principal / Software Developer, BigFont.ca, Aug 2012 to Present
-
-* Design and build websites, Internet applications, Windows software, and connected devices. 
-* Provide technical support on Windows and Apple computers. 
-* Negotiate new contracts.  
 
 IT Support Specialist, CharityVillage, Aug 2011 to Jun 2012
 
