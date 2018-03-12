@@ -4,7 +4,7 @@
   "description": "Shaun Luttin's cirriculum vitae.",
   "main": "README.md",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pdf": "markdown-pdf vitae.md -r portrait -f Letter -s custom.css -b 0.5in"
   },
   "repository": {
     "type": "git",
