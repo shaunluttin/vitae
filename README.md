@@ -1,8 +1,9 @@
 # Honors and Awards 
 
 * .NET MVP, Microsoft, Jan 2015 
-
-* Visual Studio and Developer Technologies MVP, Microsoft, Jan 2016 
+* Visual Studio and Developer Technologies MVP, Microsoft, 2016
+* Make Web Not War Award - Top Open Source Contributor, Microsoft MVP Program, 2016
+* Visual Studio and Developer Technologies MVP, Microsoft, 2017
 
 # Experience 
 
