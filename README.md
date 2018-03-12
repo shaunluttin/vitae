@@ -35,7 +35,7 @@ Founder / Principal / Software Developer, BigFont.ca, Aug 2012 to Present
 * Provide technical support on Windows and Apple computers. 
 * Negotiate new contracts.  
 
-IT Support Specialist, CharityVillage.com, Aug 2011 to Jun 2012
+IT Support Specialist, CharityVillage, Aug 2011 to Jun 2012
 
 * Worked in C# and SQL to create, test and deploy approximately five custom modules which extend the Interprise Suite CRM system. 
 * Performed data cleansing, UML documentation, and SQL queries to facilitate the deletion of over 70,000 obsolete users and migration of the remainder to a new database. 
@@ -44,12 +44,12 @@ IT Support Specialist, CharityVillage.com, Aug 2011 to Jun 2012
 * Diagnosed and fixed website bugs in CSS, HTML, and JavaScript. 
 * Produced a 20 page manual for future CharityVillage developers. 
 
-Web Developer, Lightmaker.ca, Mar 2011 to May 2011
+Web Developer, Lightmaker, Mar 2011 to May 2011
 
 * Used C#, SQL, JavaScript and HTML to limit the rate at which authenticated and anonymous users send SMS messages from the RESAAS website. 
 * Created a 'flag as inappropriate' system to let users flag images on the website and to let administrators remove images where necessary. 
  
-Web Developer, HealthChoices.ca, Jun 2010 to Mar 2011
+Web Developer, HealthChoices, Jun 2010 to Mar 2011
 
 * Designed and created the data tables, stored procedures, data-, business-, and presentation tiers to integrate SQL Server and C#.NET for ten DotNetNuke modules. 
 * Created a module to upload advertisements and to distribute them to dynamic web pages based on the appropriate region, health category, page position, and schedule. 
