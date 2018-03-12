@@ -1,3 +1,10 @@
+# Shaun Luttin
+
+* Software Developer since 2009
+* https://stackoverflow.com/users/1108891/shaun-luttin
+* http://linkedin.com/in/shaunluttin/ 
+* https://github.com/shaunluttin/
+
 # Honors and Awards 
 
 * .NET MVP, Microsoft, Jan 2015 
@@ -55,7 +62,9 @@ Web Developer, HealthChoices, Jun 2010 to Mar 2011
 * Created a module to upload advertisements and to distribute them to dynamic web pages based on the appropriate region, health category, page position, and schedule. 
 * Developed a sitemap module to represent over 2,000 dynamically created pages in both XML for search engines and in HTML for end users. 
 
-# Certifications 
+# Education 
+
+## Microsoft Learning
 
 * Developing ASP.NET 4.5 MVC Web Applications, Aug 2013 
 * Querying Microsoft SQL Server 2012, Feb 2013 
@@ -63,23 +72,17 @@ Web Developer, HealthChoices, Jun 2010 to Mar 2011
 * Designing and Developing Web Applications Using .NET 4, May 2012 
 * WCF Development with .NET 4, Dec 2011 
 * Accessing Data with .NET 4, Jun 2011 
-* Web Applications Development with  .NET 4, Mar 2011 
+* Web Applications Development with .NET 4, Mar 2011 
 
-# Education 
-
-British Columbia Institute of Technology
+## British Columbia Institute of Technology
 
 * Certificate of Technology, Software Systems Development, Web Programming, 2009 to 2010, Grade: 91% 
 * Part-Time Studies, Computing & Information Technology, 2009, Grade: 96% 
 
-University of British Columbia
+## University of British Columbia
 
 * Bachelor of Human Kinetics, Interdisciplinary Studies, 1998 to 2007 Grade: 82% 
-
-Activities and Societies: 
-
-* Member of Varsity Outdoor Club
-* Research Assistant at UBC Motor Learning and Control Lab 
+* Activities and Societies: Member of the Varsity Outdoor Club; Research Assistant at the UBC Motor Learning and Control Lab 
 
 # Publications 
 
