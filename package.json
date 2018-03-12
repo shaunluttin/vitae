@@ -1,0 +1,26 @@
+{
+  "name": "vitae",
+  "version": "1.0.0",
+  "description": "Shaun Luttin's cirriculum vitae.",
+  "main": "README.md",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shaunluttin/vitae.git"
+  },
+  "keywords": [
+    "resume",
+    "vitae"
+  ],
+  "author": "Shaun Luttin",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/shaunluttin/vitae/issues"
+  },
+  "homepage": "https://github.com/shaunluttin/vitae#readme",
+  "dependencies": {
+    "markdown-pdf": "^8.1.1"
+  }
+}

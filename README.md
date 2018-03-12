@@ -1,30 +1,30 @@
 # Shaun Luttin
 
-* Software Developer since 2009
-* https://stackoverflow.com/users/1108891/shaun-luttin
-* http://linkedin.com/in/shaunluttin/ 
-* https://github.com/shaunluttin/
+Polyglot software developer since 2009, with a focus on web development, application security, and open source.
+
+* github.com/shaunluttin
+* linkedin.com/in/shaunluttin
+* stackoverflow.com/users/1108891/shaun-luttin
 
 # Honors and Awards 
 
-* .NET MVP, Microsoft, Jan 2015 
-* Visual Studio and Developer Technologies MVP, Microsoft, 2016
-* Make Web Not War Award - Top Open Source Contributor, Microsoft MVP Program, 2016
 * Visual Studio and Developer Technologies MVP, Microsoft, 2017
+* Make Web Not War Award - Top Open Source Contributor, Microsoft MVP Program, 2016
+* Visual Studio and Developer Technologies MVP, Microsoft, 2016
+* .NET MVP, Microsoft, Jan 2015 
 
 # Experience 
 
 Founder / Principal / Software Developer, Bigfont, Aug 2012 to Present
 
-* Design and build websites, Internet applications, Windows software, and connected devices. 
-* Provide technical support on Windows and Apple computers. 
-* Negotiate new contracts.  
+* Designed and built websites, Internet applications, Windows software, and connected devices. 
+* Provided technical support on Windows and Apple computers. 
+* Negotiated new contracts with small- and medium-sized businesses including Island Savings Credit Union, EnviroIssues, and Country Grocer.
 
 Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 
 * Maintained the internal VB.NET Web Forms application and its underlying C#.NET services. 
 * This included adding new features, improving unit test coverage, and providing bug fixes to existing features.  
-* Git, C#, Visual Basic, .NET Framework, Web Forms, IIS, JavaScript, Unit Testing, Command Line Scripting, PowerShell.
 
 Software Developer, BuildDirect, 12 Sep 2016 to 30 Sep 2017 (contractor) 01 Oct 2017 to 30 Nov 2017 (employee)
 
@@ -34,7 +34,8 @@ Software Developer, BuildDirect, 12 Sep 2016 to 30 Sep 2017 (contractor) 01 Oct 
 * For an existing API, evaluated the current Client and End-User security model, trained colleagues in OAuth and OpenID Connect, and made a formal recommendation to management on how to move forward with  OpenID Connect. 
 * Collaborated via Git, GitHub, code-reviews, Slack, JIRA, email, and company-wide calendars while writing additional libraries in C#.NET Core and TypeScript. 
 * Presented regularly at our internal Developer Guild meetings on topics including Design Patterns, C#.NET Core, async/await, OpenID Connect, and JavaScript modules. 
-* Git, C#, TypeScript, JavaScript, Node.js, .NET Framework, .NET Core, Microservices, Azure, AWS, Unit Testing, Integration Testing, Command Line Scripting, PowerShell.
+
+<div style="page-break-after: always;"></div>
 
 Software Developer, Aequilibrium, Oct 2015 to Sep 2017
 
@@ -61,6 +62,8 @@ Web Developer, HealthChoices, Jun 2010 to Mar 2011
 * Designed and created the data tables, stored procedures, data-, business-, and presentation tiers to integrate SQL Server and C#.NET for ten DotNetNuke modules. 
 * Created a module to upload advertisements and to distribute them to dynamic web pages based on the appropriate region, health category, page position, and schedule. 
 * Developed a sitemap module to represent over 2,000 dynamically created pages in both XML for search engines and in HTML for end users. 
+
+<div style="page-break-after: always;"></div>
 
 # Education 
 
