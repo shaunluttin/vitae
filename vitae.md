@@ -26,7 +26,7 @@ Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 * Maintained the internal VB.NET Web Forms application and its underlying C#.NET services. 
 * This included adding new features, improving unit test coverage, and providing bug fixes to existing features.  
 
-Software Developer, BuildDirect, 12 Sep 2016 to 30 Sep 2017 (contractor) 01 Oct 2017 to 30 Nov 2017 (employee)
+Software Developer, BuildDirect, 12 Sep 2016 to 30 Nov 2017
 
 * Created the C#.NET Core project structure and the overarching design for a green-field API that has now made it to production. 
 * Converted over 350 CoffeeScript files to TypeScript, introduced TypeScript linting, fixed existing linting warnings, and contributed new features to an existing REST API that has now reached production. 
