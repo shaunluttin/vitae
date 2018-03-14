@@ -1,6 +1,6 @@
 # Shaun Luttin
 
-Polyglot software developer since 2009, with a focus on web development, application security, and open source.
+Polyglot software developer since 2009, with a focus on web development, application security, and open source. Recent interests include functional programming, design patterns, and large scale distributed systems.
 
 * github.com/shaunluttin
 * linkedin.com/in/shaunluttin
