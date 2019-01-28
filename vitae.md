@@ -1,6 +1,6 @@
 # Shaun Luttin
 
-Polyglot software developer since 2009, with a focus on web development, application security, and open source. Recent interests include functional programming, design patterns, and large scale distributed systems.
+Polyglot, multi-paradigm technical lead with a focus on building and securing large-scale distributed applications.
 
 * github.com/shaunluttin
 * linkedin.com/in/shaunluttin
@@ -8,6 +8,7 @@ Polyglot software developer since 2009, with a focus on web development, applica
 
 # Honors and Awards 
 
+* Developer Technologies MVP, Microsoft, 2018
 * Visual Studio and Developer Technologies MVP, Microsoft, 2017
 * Make Web Not War Award - Top Open Source Contributor, Microsoft MVP Program, 2016
 * Visual Studio and Developer Technologies MVP, Microsoft, 2016
