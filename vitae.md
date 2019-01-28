@@ -16,13 +16,21 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 
 # Experience 
 
-Founder / Principal / Software Developer, Bigfont, Aug 2012 to Present
+Senior Software Developer, Rubikon, Aug 2018 to Present
 
-* Designed and built websites, Internet applications, Windows software, and connected devices. 
-* Provided technical support on Windows and Apple computers. 
-* Negotiated new contracts with small- and medium-sized businesses including Island Savings Credit Union, EnviroIssues, and Country Grocer.
+* Design and develop back-end systems.
+* Develop back-end API integration.
+* Occasionally create front-end elements to access the back-end system.
+* Mentor junior team members.
 
-Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
+Software Developer, Palabra Apps, Apr 2018 to Aug 2018
+
+* Integrated a convert-to-PDF feature into an existing Windows desktop application. Conversion supported multiple file types including MS Word/Excel, popular image formats, and rich/plain text.
+* Rapidly learned the technologies necessary to implement a multiple tab PDF viewer and editor that supported document splitting, page rotation/deletion, and smooth scrolling.
+* Created a user-interface that let end-users convert multiple files to PDF at once, view and manipulate those files in multiple tabs, add oncology-related metadata to the files, and batch import those files to MOSAIQ.
+* The primary skills of this project were file system management, asynchronous programming, and researching how to use PDF manipulation libraries. The primary technologies were C#.NET with Windows Forms, ActiveX/COM interoperability, and Windows Communication Foundation.
+
+Senior Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 
 * Maintained the internal VB.NET Web Forms application and its underlying C#.NET services. 
 * This included adding new features, improving unit test coverage, and providing bug fixes to existing features.  
@@ -37,6 +45,12 @@ Software Developer, BuildDirect, 12 Sep 2016 to 30 Nov 2017
 * Presented regularly at our internal Developer Guild meetings on topics including Design Patterns, C#.NET Core, async/await, OpenID Connect, and JavaScript modules. 
 
 <div style="page-break-after: always;"></div>
+
+Founder / Principal / Software Developer, Bigfont, Sep 2012 to Aug 2016
+
+* Designed and built websites, Internet applications, Windows software, and connected devices. 
+* Provided technical support on Windows and Apple computers. 
+* Negotiated new contracts with small- and medium-sized businesses including Island Savings Credit Union, EnviroIssues, and Country Grocer.
 
 Software Developer, Aequilibrium, Oct 2015 to Sep 2017
 
