@@ -35,6 +35,8 @@ Senior Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 * Maintained the internal VB.NET Web Forms application and its underlying C#.NET services. 
 * This included adding new features, improving unit test coverage, and providing bug fixes to existing features.  
 
+<div style="page-break-after: always;"></div>
+
 Software Developer, BuildDirect, 12 Sep 2016 to 30 Nov 2017
 
 * Created the C#.NET Core project structure and the overarching design for a green-field API that has now made it to production. 
@@ -43,8 +45,6 @@ Software Developer, BuildDirect, 12 Sep 2016 to 30 Nov 2017
 * For an existing API, evaluated the current Client and End-User security model, trained colleagues in OAuth and OpenID Connect, and made a formal recommendation to management on how to move forward with  OpenID Connect. 
 * Collaborated via Git, GitHub, code-reviews, Slack, JIRA, email, and company-wide calendars while writing additional libraries in C#.NET Core and TypeScript. 
 * Presented regularly at our internal Developer Guild meetings on topics including Design Patterns, C#.NET Core, async/await, OpenID Connect, and JavaScript modules. 
-
-<div style="page-break-after: always;"></div>
 
 Founder / Principal / Software Developer, Bigfont, Sep 2012 to Aug 2016
 
@@ -67,6 +67,8 @@ IT Support Specialist, CharityVillage, Aug 2011 to Jun 2012
 * Diagnosed and fixed website bugs in CSS, HTML, and JavaScript. 
 * Produced a 20 page manual for future CharityVillage developers. 
 
+<div style="page-break-after: always;"></div>
+
 Web Developer, Lightmaker, Mar 2011 to May 2011
 
 * Used C#, SQL, JavaScript and HTML to limit the rate at which authenticated and anonymous users send SMS messages from the RESAAS website. 
@@ -77,8 +79,6 @@ Web Developer, HealthChoices, Jun 2010 to Mar 2011
 * Designed and created the data tables, stored procedures, data-, business-, and presentation tiers to integrate SQL Server and C#.NET for ten DotNetNuke modules. 
 * Created a module to upload advertisements and to distribute them to dynamic web pages based on the appropriate region, health category, page position, and schedule. 
 * Developed a sitemap module to represent over 2,000 dynamically created pages in both XML for search engines and in HTML for end users. 
-
-<div style="page-break-after: always;"></div>
 
 # Education 
 
