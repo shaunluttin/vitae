@@ -16,7 +16,7 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 
 # Experience 
 
-Senior Software Developer, Rubikon, Aug 2018 to Present
+Technical Lead, Rubikon, Aug 2018 to Present
 
 * Design and develop back-end systems.
 * Develop back-end API integration.
