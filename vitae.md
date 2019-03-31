@@ -2,9 +2,9 @@
 
 Polyglot, multi-paradigm technical lead with a focus on building and securing large-scale distributed applications.
 
-* github.com/shaunluttin 
-* linkedin.com/in/shaunluttin 
-* stackoverflow.com/users/1108891/shaun-luttin
+* [github.com/shaunluttin]()
+* [linkedin.com/in/shaunluttin ]()
+* [stackoverflow.com/users/1108891/shaun-luttin]()
 
 # Experience
 
@@ -12,7 +12,7 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 • Adhering to test driven development in NodeJS and .NET Core.
 • Leveraging design patterns, functional programming, and clean code.
 • Recommending/implementing standards compliant OpenID Connect and OAuth security protocols.
-• Coding with C#, TypeScript/JavaScript, .NET Core, NodeJS, Git, VS Code, and a Linux/Windows terminal.
+• Coding with C#, TypeScript/JavaScript, Git, VS Code, Docker, and a Linux/Windows terminal.
 
 ### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
 
