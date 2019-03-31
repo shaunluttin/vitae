@@ -11,8 +11,8 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 • Designing, developing and securing microservices in AWS/Azure/Google Cloud.
 • Adhering to test driven development in NodeJS and .NET Core.
 • Leveraging design patterns, functional programming, and clean code.
-• Recommending standards compliant OpenID Connect and OAuth security protocols.
-• Coding with C#, TypeScript, JavaScript, .NET Core, NodeJS, Git, VS Code, and a terminal.
+• Recommending/implementing standards compliant OpenID Connect and OAuth security protocols.
+• Coding with C#, TypeScript/JavaScript, .NET Core, NodeJS, Git, VS Code, and a Linux/Windows terminal.
 
 ### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
 
