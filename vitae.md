@@ -2,9 +2,9 @@
 
 Polyglot, multi-paradigm technical lead with a focus on building and securing large-scale distributed applications.
 
-* [github.com/shaunluttin](github.com/shaunluttin)
-* [linkedin.com/in/shaunluttin](github.com/shaunluttin)
-* [stackoverflow.com/users/1108891/shaun-luttin](stackoverflow.com/users/1108891/shaun-luttin)
+* [github.com/shaunluttin](https://github.com/shaunluttin)
+* [linkedin.com/in/shaunluttin](https://linkedin.com/in/shaunluttin)
+* [stackoverflow.com/users/1108891/shaun-luttin](https://stackoverflow.com/users/1108891/shaun-luttin)
 
 # Experience
 

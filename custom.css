@@ -1,3 +1,5 @@
 html {
     font-size:1.5em;
 }
+
+a[href]:after { content : "" }
