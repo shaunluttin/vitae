@@ -8,11 +8,11 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 
 # Experience
 
-• Designing, developing and securing microservices in AWS/Azure/Google Cloud.
-• Adhering to test driven development in NodeJS and .NET Core.
-• Leveraging design patterns, functional programming, and clean code.
-• Recommending/implementing standards compliant OpenID Connect and OAuth security protocols.
-• Coding with C#, TypeScript/JavaScript, Git, VS Code, Docker, and a Linux/Windows terminal.
+* Adhering to test-driven-development in NodeJS and .NET Core.
+* Leveraging design patterns, functional programming, and clean code.
+* Designing, developing and securing microservices in AWS/Azure/Google Cloud.
+* Recommending/implementing standards-compliant OpenID Connect and OAuth security protocols.
+* Coding with C#, TypeScript/JavaScript, Git, VS Code, Docker, and a Linux/Windows terminal.
 
 ### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
 
@@ -21,10 +21,10 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
   * NodeJS systems including third-party API integrations with Auth0, SendGrid, Google Firebase Functions, and Google Firestore. 
   * Configuration of NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint/TSLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler. 
 * Recommended, designed, and developed:
-  * OpenID Connect user managment, authentication, and authorization for a ReactJS client app and its NodeJS resource servers.
-  * Continuous deployment for the ReactJS client application and its NodeJS resource servers using Google Cloud Deploy.
-  * Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing as design patterns for our complex, reporting-intensive business software.
   * OpenAPI (previously Swagger) tools for testing, designing, and documenting our RESTful APIs.
+  * Continuous deployment for the ReactJS client application and its NodeJS resource servers using Google Cloud Deploy.
+  * OpenID Connect user managment, authentication, and authorization for a ReactJS client app and its NodeJS resource servers.
+  * Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing as design patterns for our complex, reporting-intensive business software.
 * Mentored junior team members in clean software design; advocated for appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript/JavaScript.
 
 ### Software Developer, Palabra Apps, Apr 2018 to Aug 2018
