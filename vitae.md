@@ -20,10 +20,11 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
   * Front-end elements in ReactJS to access the back-end system. 
   * NodeJS systems including third-party API integrations with Auth0, SendGrid, Google Firebase Functions, and Google Firestore. 
   * Configuration of NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint/TSLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler. 
-* Recommended, designed, and developed: 
+* Recommended, designed, and developed:
   * OpenID Connect user managment, authentication, and authorization for a ReactJS client app and its NodeJS resource servers.
   * Continuous deployment for the ReactJS client application and its NodeJS resource servers using Google Cloud Deploy.
   * Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing as design patterns for our complex, reporting-intensive business software.
+  * OpenAPI (previously Swagger) tools for testing, designing, and documenting our RESTful APIs.
 * Mentored junior team members in clean software design; advocated for appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript/JavaScript.
 
 ### Software Developer, Palabra Apps, Apr 2018 to Aug 2018
