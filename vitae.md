@@ -18,7 +18,8 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 
 * Designed and developed:
   * Front-end elements in ReactJS to access the back-end system. 
-  * NodeJS systems including third-party API integrations with Auth0, SendGrid, Google Firebase Functions, and Google Firestore. 
+  * NodeJS systems including third-party API integrations with Auth0, SendGrid, and Google Firebase Functions, Google Firebase Hosting, and Google Firestore.
+  * Configured continuous deployment with Google Cloud Build to ensure tests pass before publishing microservices to Google Functions.
   * Configuration of NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint/TSLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler. 
 * Recommended, designed, and developed:
   * OpenAPI (previously Swagger) tools for testing, designing, and documenting our RESTful APIs.
@@ -49,12 +50,14 @@ Polyglot, multi-paradigm technical lead with a focus on building and securing la
 * For an existing NodeJS API, evaluated the current Client and End-User security model, trained colleagues in OAuth and OpenID Connect, and made a formal recommendation to management on how to move forward with  OpenID Connect. 
 * Collaborated via Git, GitHub, code-reviews, Slack, JIRA, email, and company-wide calendars while writing additional libraries in C#.NET Core and TypeScript/JavaScript. 
 * Presented regularly at our internal Developer Guild meetings on topics including Design Patterns, C#.NET Core, async/await, OpenID Connect, and JavaScript modules. 
+* Coordinated the microservice environments among Auth0, AWS Lambda, Azure Functions, Azure Service Bus, and Azure API Management using Azure DevOps and Jenkins for deployment.
 
 ### Founder / Principal / Software Developer, Bigfont, Sep 2012 to Aug 2016
 
 * Designed and built websites, Internet applications, Windows software, and connected devices. 
 * Provided technical support on Windows and Apple computers. 
 * Negotiated new contracts with small- and medium-sized businesses including Island Savings Credit Union, EnviroIssues, and Country Grocer.
+* Set up continuous deployment and environmental management with GitHub, Azure Kudu, and Azure App Services.
 
 ### Software Developer, Aequilibrium, Oct 2015 to Sep 2017
 
