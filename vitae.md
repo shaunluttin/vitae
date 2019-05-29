@@ -1,6 +1,6 @@
 # Shaun Luttin
 
-Polyglot, multi-paradigm technical lead with a focus on building and securing large-scale distributed applications.
+Polyglot, multi-paradigm technical lead with a focus on building, deploying, and securing large-scale distributed applications.
 
 * [github.com/shaunluttin](https://github.com/shaunluttin)
 * [linkedin.com/in/shaunluttin](https://linkedin.com/in/shaunluttin)
