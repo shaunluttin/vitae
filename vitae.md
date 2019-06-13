@@ -1,6 +1,6 @@
 # Shaun Luttin
 
-Polyglot, multi-paradigm technical lead with a focus on designing, implementing, securing, deploying, and monitoring large-scale distributed applications.
+Polyglot, multi-paradigm technical lead with a focus on designing, developing, securing, deploying, and monitoring large-scale distributed applications.
 
 - [github.com/shaunluttin](https://github.com/shaunluttin)
 - [linkedin.com/in/shaunluttin](https://linkedin.com/in/shaunluttin)
@@ -10,15 +10,15 @@ Polyglot, multi-paradigm technical lead with a focus on designing, implementing,
 
 - Adhering to test-driven-development in NodeJS and .NET Core.
 - Leveraging design patterns, functional programming, and clean code.
-- Designing, developing and securing microservices in AWS/Azure/Google Cloud.
+- Developing microservices in AWS/Azure/Google Cloud.
 - Recommending/implementing standards-compliant OpenID Connect and OAuth security protocols.
 - Coding with C#, TypeScript/JavaScript, Git, VS Code, Docker, and a Linux/Windows terminal.
 
 ### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
 
 - Designed and developed:
-  - Front-end elements in ReactJS to access the back-end system.
   - NodeJS systems including third-party API integrations with Auth0, SendGrid, and Google Firebase Functions, Google Firebase Hosting, and Google Firestore.
+  - Front-end elements in ReactJS to access the back-end system.
   - Configured continuous deployment with Google Cloud Build to ensure tests pass before publishing microservices to Google Functions.
   - Configuration of NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint/TSLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler.
 - Recommended, designed, and developed:
