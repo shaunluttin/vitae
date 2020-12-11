@@ -12,7 +12,7 @@ Polyglot, multi-paradigm technical lead with a focus on designing, developing, s
 - Leveraging design patterns, functional programming, and clean code.
 - Developing microservices in AWS/Azure/Google Cloud.
 - Recommending/implementing standards-compliant OpenID Connect and OAuth security protocols.
-- Coding with C#, TypeScript/JavaScript, Git, VS Code, Docker, and a Linux/Windows terminal.
+- Coding with C#, TypeScript/JavaScript, Git, VS Code, Vim, Docker, and a Linux/Windows terminal.
 
 ### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
 
@@ -115,6 +115,9 @@ Polyglot, multi-paradigm technical lead with a focus on designing, developing, s
 
 # Honors and Awards
 
+- TypeScript Gold, Stackoverflow, 2020
+- ASP.NET Core Gold, Stackoverflow 2019
+- C# Gold, Stackoverflow, 2018,
 - Developer Technologies MVP, Microsoft, 2018
 - Visual Studio and Developer Technologies MVP, Microsoft, 2017
 - Make Web Not War Award - Top Open Source Contributor, Microsoft MVP Program, 2016
