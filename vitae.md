@@ -16,17 +16,38 @@ Polyglot, multi-paradigm technical lead with a focus on designing, developing, s
 
 ### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
 
-- Designed and developed:
-  - NodeJS systems including third-party API integrations with Auth0, SendGrid, and Google Firebase Functions, Google Firebase Hosting, and Google Firestore.
-  - Front-end elements in ReactJS to access the back-end system.
-  - Configured continuous deployment with Google Cloud Build to ensure tests pass before publishing microservices to Google Functions.
-  - Configuration of NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint/TSLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler.
-- Recommended, designed, and developed:
-  - OpenAPI (previously Swagger) tools for testing, designing, and documenting our RESTful APIs.
-  - Continuous deployment for the ReactJS client application and its NodeJS resource servers using Google Cloud Deploy.
-  - OpenID Connect user managment, authentication, and authorization for a ReactJS client app and its NodeJS resource servers.
-  - Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing as design patterns for our complex, reporting-intensive business software.
-- Mentored junior team members in clean software design; advocated for appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript/JavaScript.
+Intermediate Level Duties
+- Advanced Backend Programming. Write code to specified outcomes and designs. 
+- Advanced Backend Design. Design modules within specified tools and architecture.
+
+Senior Level Duties
+- Within the boundaries of team projects:
+- Advanced Backend Research. Follow industry trends and practices to choose appropriate tools.
+- Advanced Backend Architecture. Maintain software scalability and velocity as the code-base grows. 
+
+Technical Lead Level Duties
+- Advanced Technical Expert, Trainer, Advocate. Develop deep knowledge; share it with the team.
+- Backend Project Ownership. Take responsibility for the overall quality of the backend system.
+- Personal Project Management. Create, organize, prioritize and document project process.
+- Intermediate DevOps. Contribute to development approaches that increase feature velocity. 
+
+Cultural Development Duties
+- Management Consulting. Initiate practices that will make backend development more efficient.
+- Conflict Resolution / Boundary Setting. Resolve conflicts. Set firm, respectful boundaries.
+
+Designed and developed:
+- NodeJS systems including third-party API integrations with Auth0, SendGrid, and Google (Functions, Hosting, Blob Storage, Firestore DocumentDb).
+- Front-end elements in ReactJS to access the back-end system.
+- Continuous deployment with Google Cloud Build to ensure tests pass before publishing microservices to Google Functions.
+- Automation with NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler.
+
+Recommended, designed, and developed:
+- OpenAPI (previously Swagger) tools for testing, designing, and documenting our RESTful APIs.
+- Continuous deployment for the ReactJS client application and its NodeJS resource servers using Google Cloud Deploy.
+- OpenID Connect user managment, authentication, and authorization for a ReactJS client app and its NodeJS resource servers.
+- Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing as design patterns for our complex, reporting-intensive business software.
+
+Mentored junior team members in clean software design; advocated for appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript/JavaScript.
 
 ### Software Developer, Palabra Apps, Apr 2018 to Aug 2018
 
