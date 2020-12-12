@@ -1,5 +1,33 @@
 html {
-    font-size:1.5em;
+    font-size:.5em;
+}
+
+body {
+    margin-right:100px;
+}
+
+h1 {
+    border-bottom: thin solid black;
+}
+
+ul {
+    margin-top:0px;
+    padding-top:0px;
+    padding-left:15px;
+    margin-right: 0px;
+}
+
+li {
+    padding-left: 0px;
+    padding-right: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+div.honors-and-awards > div {
+    float:left;
+    margin:0px;
+    padding:0px;
 }
 
 a[href]:after { content : "" }

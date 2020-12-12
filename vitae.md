@@ -2,9 +2,11 @@
 
 Polyglot, multi-paradigm technical lead with a focus on designing, developing, securing, deploying, and monitoring large-scale distributed applications.
 
-- [github.com/shaunluttin](https://github.com/shaunluttin)
-- [linkedin.com/in/shaunluttin](https://linkedin.com/in/shaunluttin)
-- [stackoverflow.com/users/1108891/shaun-luttin](https://stackoverflow.com/users/1108891/shaun-luttin)
+[github.com/shaunluttin][0] | [linkedin.com/in/shaunluttin][1] | [https://stackoverflow.com/users/1108891][2]
+
+[0]: https://github.com/shaunluttin
+[1]: https://linkedin.com/in/shaunluttin
+[2]: https://stackoverflow.com/users/1108891/shaun-luttin?tab=profile
 
 # Experience
 
@@ -52,7 +54,7 @@ Recommended, Architected, Designed, and Developed
 - Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing for complex, reporting-intensive business software.
 - Appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript.
 
-Mentored junior team members in clean software development. 
+<div style="page-break-after: always;"></div>
 
 ### Software Developer, Palabra Apps, Apr 2018 to Aug 2018
 
@@ -60,8 +62,6 @@ Mentored junior team members in clean software development.
 - Rapidly learned the technologies necessary to implement a multiple tab PDF viewer and editor that supported document splitting, page rotation/deletion, and smooth scrolling.
 - Created a user-interface that let end-users convert multiple files to PDF at once, view and manipulate those files in multiple tabs, add oncology-related metadata to the files, and batch import those files to MOSAIQ.
 - The primary skills of this project were file system management, asynchronous programming, and researching how to use PDF manipulation libraries. The primary technologies were C#.NET with Windows Forms, ActiveX/COM interoperability, and Windows Communication Foundation.
-
-<div style="page-break-after: always;"></div>
 
 ### Senior Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 
@@ -91,6 +91,8 @@ Mentored junior team members in clean software development.
 - Designed and implemented the end-user authentication and also extended the existing data visualization features of an existing ecological data management system; provided professional skills in security, C#.NET, JavaScript, CSS, and HTML.
 - Researched, designed, and implemented a custom Salesforce module to allow US government sites to accept payments from citizens; implemented the payment flow in JavaScript and APEX to the exact security specifications of the payment provider (First Data).
 
+<div style="page-break-after: always;"></div>
+
 ### IT Support Specialist, CharityVillage, Aug 2011 to Jun 2012
 
 - Worked in C# and SQL to create, test and deploy approximately five custom modules which extend the Interprise Suite CRM system.
@@ -99,8 +101,6 @@ Mentored junior team members in clean software development.
 - Installed and troubleshot Interprise Suite CRM, Outlook, VMWare, and Windows Parallel.
 - Diagnosed and fixed website bugs in CSS, HTML, and JavaScript.
 - Produced a 20 page manual for future CharityVillage developers.
-
-<div style="page-break-after: always;"></div>
 
 ### Web Developer, Lightmaker, Mar 2011 to May 2011
 
@@ -127,25 +127,30 @@ Mentored junior team members in clean software development.
 
 ### British Columbia Institute of Technology
 
-- Certificate of Technology, Software Systems Development, Web Programming, 2009 to 2010, Grade: 91%
-- Part-Time Studies, Computing & Information Technology, 2009, Grade: 96%
+- Certificate of Technology, Software Systems Development, Web Programming, 2009 to 2010, 91%
+- Part-Time Studies, Computing & Information Technology, 2009, 96%
 
 ### University of British Columbia
 
-- Bachelor of Human Kinetics, Interdisciplinary Studies, 1998 to 2007 Grade: 82%
+- Bachelor of Human Kinetics, Interdisciplinary Studies, 1998 to 2007 82%
 - Activities and Societies: Member of the Varsity Outdoor Club; Research Assistant at the UBC Motor Learning and Control Lab
 
 # Publications
 
-- Learning From the Experts: Gaining Insights Into Best Practice During the Acquisition of Three Novel Motor Skills Research Quarterly for Exercise and Sport, Volume 82, Number 2, pp. 178-187(10) June 2011
+Learning From the Experts: Gaining Insights Into Best Practice During the Acquisition of Three Novel Motor Skills Research Quarterly for Exercise and Sport, Volume 82, Number 2, pp. 178-187(10) June 2011
 
 # Honors and Awards
 
+<div class="honors-and-awards"><div>
+
 - TypeScript Gold, Stackoverflow, 2020
 - ASP.NET Core Gold, Stackoverflow 2019
-- C# Gold, Stackoverflow, 2018,
+- C# Gold, Stackoverflow, 2018
+</div><div>
+
 - Developer Technologies MVP, Microsoft, 2018
-- Visual Studio and Developer Technologies MVP, Microsoft, 2017
-- Make Web Not War Award - Top Open Source Contributor, Microsoft MVP Program, 2016
-- Visual Studio and Developer Technologies MVP, Microsoft, 2016
+- Visual Studio and Developer Tech MVP, Microsoft, 2017
+- Top Open Source Contributor, Microsoft MVP Program, 2016
+- Visual Studio and Developer Tech MVP, Microsoft, 2016
 - .NET MVP, Microsoft, Jan 2015
+</div></div>
