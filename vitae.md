@@ -35,19 +35,24 @@ Cultural Development Duties
 - Management Consulting. Initiate practices that will make backend development more efficient.
 - Conflict Resolution / Boundary Setting. Resolve conflicts. Set firm, respectful boundaries.
 
-Designed and developed:
-- NodeJS systems including third-party API integrations with Auth0, SendGrid, and Google (Functions, Hosting, Blob Storage, Firestore DocumentDb).
-- Front-end elements in ReactJS to access the back-end system.
-- Continuous deployment with Google Cloud Build to ensure tests pass before publishing microservices to Google Functions.
-- Automation with NPM Scripts, Webpack, Babel (e.g. TC39 stage three features), Jest (e.g. environment management), ESLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler.
+Architected, Designed, and Developed
+- Microservices in NodeJS to expose commands and queries to front-end HTTP clients.
+- Third-party API integrations with Auth0, SendGrid, and Google (Functions, Hosting, Blob Storage, Firestore DocumentDb).
+- Continuous deployment with Google Cloud Build to ensure quality checks pass before publishing microservices.
+- Automation with NPM Scripts, Webpack, Babel, Jest, ESLint, Git Hooks (e.g. pre-push), and the TypeScript Compiler.
+- Domain models, commands, events, and services for Cannabis inventory management workflows.
+- PDF and CSV report generation that leverage the same underlying domain models.
+- Custom CQRS/ES infrastructure in Node JS that supports edit/undo operations.
+- Over 2,500 TypeScript files (starting from an empty project) in 16 projects with over 25,000 tests.
 
-Recommended, designed, and developed:
+Recommended, Architected, Designed, and Developed
 - OpenAPI (previously Swagger) tools for testing, designing, and documenting our RESTful APIs.
 - Continuous deployment for the ReactJS client application and its NodeJS resource servers using Google Cloud Deploy.
 - OpenID Connect user managment, authentication, and authorization for a ReactJS client app and its NodeJS resource servers.
-- Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing as design patterns for our complex, reporting-intensive business software.
+- Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing for complex, reporting-intensive business software.
+- Appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript.
 
-Mentored junior team members in clean software design; advocated for appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript/JavaScript.
+Mentored junior team members in clean software development. 
 
 ### Software Developer, Palabra Apps, Apr 2018 to Aug 2018
 
@@ -56,12 +61,12 @@ Mentored junior team members in clean software design; advocated for appropriate
 - Created a user-interface that let end-users convert multiple files to PDF at once, view and manipulate those files in multiple tabs, add oncology-related metadata to the files, and batch import those files to MOSAIQ.
 - The primary skills of this project were file system management, asynchronous programming, and researching how to use PDF manipulation libraries. The primary technologies were C#.NET with Windows Forms, ActiveX/COM interoperability, and Windows Communication Foundation.
 
+<div style="page-break-after: always;"></div>
+
 ### Senior Software Developer, Leavetown, 11 Dec 2017 to 09 Mar 2018
 
 - Maintained the internal VB.NET Web Forms application and its underlying C#.NET services.
 - This included adding new features, improving unit test coverage, and providing bug fixes to existing features.
-
-<div style="page-break-after: always;"></div>
 
 ### Software Developer, BuildDirect, 12 Sep 2016 to 30 Nov 2017
 
