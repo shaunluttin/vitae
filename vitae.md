@@ -1,6 +1,6 @@
 # Shaun Luttin
 
-Polyglot, multi-paradigm technical lead with a focus on designing, developing, securing, deploying, and monitoring large-scale distributed applications.
+Polyglot, multi-paradigm software developer with a focus on designing, developing, securing, deploying, and monitoring large-scale distributed applications.
 
 [github.com/shaunluttin][0] | [linkedin.com/in/shaunluttin][1] | [https://stackoverflow.com/users/1108891][2]
 
@@ -10,13 +10,78 @@ Polyglot, multi-paradigm technical lead with a focus on designing, developing, s
 
 # Experience
 
+### Software Development
+
 - Adhering to test-driven-development in NodeJS and .NET Core.
 - Leveraging design patterns, functional programming, and clean code.
 - Developing microservices in AWS/Azure/Google Cloud.
 - Recommending/implementing standards-compliant OpenID Connect and OAuth security protocols.
 - Coding with C#, TypeScript/JavaScript, Git, VS Code, Vim, Docker, and a Linux/Windows terminal.
 
-### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Present
+### Senior Software Developer, MediaValet, Feb 2021 - Aug 2023
+
+Senior developer on the Core DAM team responsible for building the Digital Asset Management 
+platform that can scale to meet the needs of enterprise customers each having millions of media assets.
+
+The API and all the underlying microservices in Azure Service Fabric are build using C#.NET. 
+These microservices work with various Azure PaaS services such as Azure Storage, Search, CosmosDB, Media Services, KeyVault etc. 
+
+Responsibilities included:
+
+- feature scoping/planning/grooming,
+- technical design,
+- documentation,
+- peer reviews,
+- infosec initiatives relating to the product,
+- mentoring and debugging/troubleshooting as the need arises.
+- research and spikes when new tech needs to be implemented
+- socializing technical knowledge internally within your team and other teams.
+
+### Owner, Fernwood Road Cafe, Jul 2020 - Jun 2023
+
+Summary
+- Purchased closed café mid-pandemic in July 2020.
+- Lead hiring decisions to grow company from two to seven staff.
+- Established living wage of $21/hr for baristas and $25/hr for management.
+- Won the 2020 Resilient New Business Award.
+
+COVID Response
+- Introduced outdoor pandemic seating and COVID protocols.
+- Used evidence-based COVID practices e.g., air quality monitoring & Corsi–Rosenthal Boxes.
+- Resolved customer conflicts surrounding COVID passport and mask requirements.
+
+Specialty Coffee Preparation
+- Researched, procured, installed, and maintained La Marzocco GB/5 espresso machine. 
+- Learned, introduced, and trained staff in 3rd wave specialty coffee preparation. 
+
+Responsible Consumption and Production
+- Researched, designed, constructed, maintained and improved waste management. 
+- Increased customer sorting effectiveness with award winning system from Carleton university.
+- Constructed recycling station for front-of-house customer sorting.
+- Built composting station for back-of-house staff sorting.
+- Customers perform 90% of the sorting at the point-of-disposal; staff perform final 10%. 
+
+Human Resources
+- Implemented Guarding Minds at Work (GM@W) management practices.
+- Focused on Clear Leadership and Expectations to maximize delegation.
+- Established hours of 9 am to 4 pm.
+
+Time and Space Management
+- Performed systems improvements to handle 40 transactions per hour ($750 line hour).
+- Researched, procured, and installed Merrychef es2 oven to accelerate food preparation.
+- Established working zones to increase time and space efficiency of staff.
+
+Cost Accounting
+- Developed costing model and supporting costing software.
+- Increased year-over-year sales 40% from 2021 to 2022. 
+
+Project Management Approach
+- Used throwaway prototyping and staged delivery models to establish outdoor seating.
+- Negotiated with Islands Trust for land use review of permanent outdoor structures. 
+- Collaborated with Capital Regional District to establish building code requirements.
+- Researched, designed, procured, installed and maintained 60 SQFT of outdoor gazebos.
+
+### Technical Lead, Rubikon/CertiCraft, Aug 2018 to Feb 2001
 
 Intermediate Level Duties
 - Advanced Backend Programming. Write code to specified outcomes and designs. 
@@ -54,8 +119,6 @@ Recommended, Architected, Designed, and Developed
 - Domain Driven Design, Command Query Responsibility Segregation, and Event Sourcing for complex, reporting-intensive business software.
 - Appropriate use of design patterns, functional programming, Git version control flows, test-driven development, and TypeScript.
 
-<div style="page-break-after: always;"></div>
-
 ### Software Developer, Palabra Apps, Apr 2018 to Aug 2018
 
 - Integrated a convert-to-PDF feature into an existing Windows desktop application. Conversion supported multiple file types including MS Word/Excel, popular image formats, and rich/plain text.
@@ -90,8 +153,6 @@ Recommended, Architected, Designed, and Developed
 - Provided team augmentation for a six-month data import automation project involving skills in C#.NET, Git, Design Patterns, Microsoft Excel, and MongoDB; the team of approximately seven developers met the deadline and the code went into production.
 - Designed and implemented the end-user authentication and also extended the existing data visualization features of an existing ecological data management system; provided professional skills in security, C#.NET, JavaScript, CSS, and HTML.
 - Researched, designed, and implemented a custom Salesforce module to allow US government sites to accept payments from citizens; implemented the payment flow in JavaScript and APEX to the exact security specifications of the payment provider (First Data).
-
-<div style="page-break-after: always;"></div>
 
 ### IT Support Specialist, CharityVillage, Aug 2011 to Jun 2012
 
@@ -146,11 +207,8 @@ Learning From the Experts: Gaining Insights Into Best Practice During the Acquis
 - TypeScript Gold, Stackoverflow, 2020
 - ASP.NET Core Gold, Stackoverflow 2019
 - C# Gold, Stackoverflow, 2018
-</div><div>
-
 - Developer Technologies MVP, Microsoft, 2018
 - Visual Studio and Developer Tech MVP, Microsoft, 2017
 - Top Open Source Contributor, Microsoft MVP Program, 2016
 - Visual Studio and Developer Tech MVP, Microsoft, 2016
 - .NET MVP, Microsoft, Jan 2015
-</div></div>
